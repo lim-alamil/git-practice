@@ -1,0 +1,25 @@
+{
+  "name": "git-practice",
+  "version": "1.0.0",
+  "description": "Test directory in learning Git and Node.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lim-alamil/git-practice.git"
+  },
+  "author": "Limuelle Alamil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lim-alamil/git-practice/issues"
+  },
+  "homepage": "https://github.com/lim-alamil/git-practice#readme",
+  "dependencies": {
+    "dev": "^0.1.3",
+    "lite-server": "^2.6.1"
+  }
+}
